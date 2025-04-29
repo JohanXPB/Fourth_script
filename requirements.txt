@@ -1,5 +1,4 @@
 pandas 
-os
 openpyxl
 StringIO
 sys
