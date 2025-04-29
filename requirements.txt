@@ -1,6 +1,5 @@
 pandas 
 openpyxl
-StringIO
 io
 sys
 streamlit
